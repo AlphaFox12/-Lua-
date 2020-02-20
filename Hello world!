@@ -1,4 +1,0 @@
-start<
-  textln('Hello!');
-  textln('This is a programming language Quick!')
->finish
