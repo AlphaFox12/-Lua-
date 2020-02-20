@@ -1,3 +1,4 @@
-# Alpha {
-  echo('Hello world!');
+title: AlphaTest {
+  echo: Hello world!
+  echo blue: I'am developer                 // Blue text
 }
