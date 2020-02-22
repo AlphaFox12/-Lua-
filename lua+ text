@@ -1,0 +1,8 @@
+lua+ import:
+  echo < 'Hello world!';
+  echo < 'It's ' < 'Lua+';
+  echo < color:green < 'Green text';
+  echo < font-family:gulim < 'Font gulim';
+  echo < color:green < font-family:gulim < 'Green Gulim';
+  echo < font-size:23 < 'Text size 23';
+end
