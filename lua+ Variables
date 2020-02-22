@@ -1,0 +1,19 @@
+lua+ import:
+  echo < 2+2 ;
+  var 'Var1':
+    a = 4;
+    b = 1;
+  end
+  echo < var 'Var1' < a+b ;
+  echo < var 'Var1' < a+a ;
+  echo < var 'Var1' < b+b ;
+  echo < var 'Var1' < b+a+a+b ;
+  var 'Var1':
+    a = 8;
+    b = 9;
+  end
+  echo < var 'Var2' < a+b ;
+  echo < var 'Var2' < a+a ;
+  echo < var 'Var2' < b+b ;
+  echo < var 'Var2' < b+a+a+b ;
+end
