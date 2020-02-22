@@ -1,6 +1,6 @@
 month import:
   echo < 'Hello world!';
-  echo < 'It's ' < 'Lua+';
+  echo < 'It's ' < 'Month';
   echo < color:green < 'Green text';
   echo < font-family:gulim < 'Font gulim';
   echo < color:green < font-family:gulim < 'Green Gulim';
