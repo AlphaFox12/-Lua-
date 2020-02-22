@@ -1,4 +1,4 @@
-lua+ import:
+month import:
   echo < 'Hello world!';
   echo < 'It's ' < 'Lua+';
   echo < color:green < 'Green text';
