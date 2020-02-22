@@ -1,4 +1,0 @@
-title: AlphaTest {
-  echo: Hello world!
-  echo blue: I'am developer                 // Blue text
-}
