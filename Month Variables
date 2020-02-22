@@ -1,4 +1,4 @@
-lua+ import:
+month import:
   echo < 2+2 ;
   var 'Var1':
     a = 4;
