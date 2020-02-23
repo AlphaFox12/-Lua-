@@ -1,4 +1,4 @@
-month import:
+start:
   echo < 'Hello world!';
   echo < 'It's ' < 'Month';
   echo < color:green < 'Green text';
